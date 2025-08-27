@@ -1,2 +1,2 @@
-# TS--01--Dual-VCO
+# TS01-DualVCO
 Tube synth dual VCO
