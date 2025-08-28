@@ -13,9 +13,9 @@ I made a mock-up front panel and decided on a position for the tube. Wood, hot g
 
 Quick and dirty :)
 
-<img src='Pictures/MaquetteA 0.1.jpg' width='800px'/>
+<img src='Pictures/maquetteA 0.1.jpg' width='800px'/>
 
-<img src='Pictures/MaquetteB 0.1.jpg' width='800px'/>
+<img src='Pictures/maquetteB 0.1.jpg' width='800px'/>
 
 
 
@@ -57,13 +57,7 @@ Holes placed just above the potentiometers, jacks, and switches will allow the w
 
 Want to make your own front panel ? : https://github.com/dubhalley/Front_Panel
 
-Front Panel
-<img src='Pictures/FA VCO Dual.png' width='800px'/>
 
-Back panel
-<img src='Pictures/FR VCO Dual.png' width='800px'/>
-
-Files : 
 
 Front panel : <img src='Files/FA VCO Dual.svg' width='800px'/>
 
@@ -116,9 +110,11 @@ For the knobs, I made a small improvement by digging a small recess on the top, 
 
 Files :
 
-Knob : <img src='Files/Bouton Tube V5.FCStd' width='800px'/>
+Knob : Bouton Tube V5.FCStd
+<img src='Pictures/Potar.jpg' width='800px'/>
 
-Hat : <img src='Files/Rond de bouton.FCStd' width='800px'/>
+Hat : Rond de bouton.FCStd
+<img src='Pictures/Rond de potar.jpg' width='800px'/>
 
 ## 5 - Case : 
 
