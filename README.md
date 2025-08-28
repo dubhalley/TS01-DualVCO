@@ -41,7 +41,7 @@ I used this diagram: <img src='Pictures/Cgs_ts23schematic.gif' width='800px'/>
 
 I redid it with Kicad, trying to anticipate the wiring.
 
-Kicad diagram: <img src='Pictures/Kicad VCO Dual.pdf' width='800px'/>
+Kicad diagram: <img src='Pictures/Kicad_VCO_Dual.pdf' width='800px'/>
 
 
 But, looking back, I think I could have done better...
