@@ -1,7 +1,9 @@
 # TS01 - Dual VCO
 
-The first Whoooooohooooo :)
+The first one !! Whoooooohooooo :)
 I'll describe all my journey of tube's noob :)
+
+You'll find here my work in progress
 
 How to start ??
 
