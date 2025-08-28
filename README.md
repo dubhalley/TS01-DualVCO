@@ -41,7 +41,7 @@ I used this diagram: <img src='Pictures/Cgs_ts23schematic.gif' width='800px'/>
 
 I redid it with Kicad, trying to anticipate the wiring.
 
-Kicad diagram: <img src='Pictures/Kicad_VCO_Dual.pdf' width='800px'/>
+Kicad diagram: <img src='Pictures/Kicad_VCO_Dual.png' width='800px'/>
 
 
 But, looking back, I think I could have done better...
@@ -71,19 +71,5 @@ Method for making your own case : https://github.com/dubhalley/Case
 
 ## 6 - Power supply : 
 
-
-
-
-
-
-
-
-
-**First of all, I'd like to extend my warmest thanks to Eric Barbour (https://www.metasonix.com/), Rene Schmitz (https://www.schmitzbits.de/), Marc Bareille (http://m.bareille.free.fr/index.htm), Sam Battle (https://www.lookmumnocomputer.com/) and Ken Stone (https://open4umodular.github.io/synthpanel/) for sharing their schemas.**
-
-**But also my dear JM, without whom this project would not be possible.**
-
-
-<img src='Pictures/Tableau.png' width='800px'/>
 
 
