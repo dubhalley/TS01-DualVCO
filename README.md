@@ -13,9 +13,9 @@ I made a mock-up front panel and decided on a position for the tube. Wood, hot g
 
 Quick and dirty :)
 
-<img src='Pictures/maquetteA 0.1.jpg' width='800px'/>
+<img src='Pictures/maquetteA 0.1.jpg' width='400px'/>
 
-<img src='Pictures/maquetteB 0.1.jpg' width='800px'/>
+<img src='Pictures/maquetteB 0.1.jpg' width='400px'/>
 
 
 
@@ -28,13 +28,13 @@ I thought that perhaps with a second support I would have more space to put the 
 I realized that there wouldn't be enough space to make a clean assembly, so I opted for the rear side.
 
 Paper stuck on the dibond
-<img src='Pictures/ProtoA 0.2.jpg' width='800px'/>
+<img src='Pictures/ProtoA 0.2.jpg' width='400px'/>
 
 Tube holder
-<img src='Pictures/ProtoB 0.2.jpg' width='800px'/>
+<img src='Pictures/ProtoB 0.2.jpg' width='400px'/>
 
 More space for the components ?
-<img src='Pictures/Proto 0.3.jpg' width='800px'/>
+<img src='Pictures/Proto 0.3.jpg' width='400px'/>
 
 
 
@@ -59,9 +59,9 @@ Want to make your own front panel ? : https://github.com/dubhalley/Front_Panel
 
 
 
-Front panel : <img src='Files/FA VCO Dual.svg' width='800px'/>
+Front panel : <img src='Files/FA VCO Dual.svg' width='400px'/>
 
-Rear panel : <img src='Files/FR VCO Dual.svg' width='800px'/>
+Rear panel : <img src='Files/FR VCO Dual.svg' width='400px'/>
 
 
 
@@ -77,12 +77,12 @@ I used the .svg file from the front panel to make the rear panel, so I have all 
 
 ## 3 - Schéma : 
 
-I used this diagram: <img src='Pictures/Cgs_ts23schematic.gif' width='800px'/>
+I used this diagram: <img src='Pictures/Cgs_ts23schematic.gif' width='400px'/>
 
 
 I redid it with Kicad, trying to anticipate the wiring.
 
-Kicad diagram: <img src='Pictures/Kicad_VCO_Dual.png' width='800px'/>
+Kicad diagram: <img src='Pictures/Kicad_VCO_Dual.png' width='400px'/>
 
 With the symbols for kicad :
 
@@ -96,7 +96,7 @@ Next time ... ;)
 I created an .svg file with the component footprints to anticipate the wiring.
 
 Rear panel wiring: 
-<img src='Pictures/FR VCO Dual 3U Wiring V2.png' width='800px'/>
+<img src='Pictures/FR VCO Dual 3U Wiring V2.png' width='400px'/>
 
 
 ## 4 - Knob : 
@@ -106,15 +106,15 @@ Want to make your own knob ? : https://github.com/dubhalley/Knob
 
 For the knobs, I made a small improvement by digging a small recess on the top, so I can put a colored washer in it to get a position slider.
 
-<img src='Pictures/knob.jpg' width='800px'/>
+<img src='Pictures/knob.jpg' width='400px'/>
 
 Files :
 
 Knob : Bouton Tube V5.FCStd
-<img src='Pictures/Potar.jpg' width='800px'/>
+<img src='Pictures/Potar.jpg' width='400px'/>
 
 Hat : Rond de bouton.FCStd
-<img src='Pictures/Rond de potar.jpg' width='800px'/>
+<img src='Pictures/Rond de potar.jpg' width='400px'/>
 
 ## 5 - Case : 
 
