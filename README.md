@@ -3,9 +3,40 @@
 The first one !! Whoooooohooooo :)
 I'll describe all my journey of tube's noob :)
 
-You'll find here my work in progress
+You'll find here my work in progress like a prototype :)
 
-How to start ??
+Maquette A et B C 0.1 et 0.2
+
+Maquette V 0.1
+My traveling companion wanted to get an idea of what it would look like.
+I made a mock-up front panel and decided on a position for the tube. Wood, hot glue...
+
+Quick and dirty :)
+
+<img src='Pictures/MaquetteA 0.1.jpg' width='800px'/>
+
+<img src='Pictures/MaquetteB 0.1.jpg' width='800px'/>
+
+
+
+We agreed that it was a feasible project.
+
+So I made a prototype using Dibond.
+A reliable support for the tubes is needed.
+I thought that perhaps with a second support I would have more space to put the components.
+
+I realized that there wouldn't be enough space to make a clean assembly, so I opted for the rear side.
+
+Paper stuck on the dibond
+<img src='Pictures/ProtoA 0.2.jpg' width='800px'/>
+
+Tube holder
+<img src='Pictures/ProtoB 0.2.jpg' width='800px'/>
+
+More space for the components ?
+<img src='Pictures/Proto 0.3.jpg' width='800px'/>
+
+
 
 ## 1 - Choices : 
 
@@ -24,7 +55,21 @@ Holes placed just above the potentiometers, jacks, and switches will allow the w
 
 ## 2 - Front et Back panel : 
 
-A method to realise front panel : https://github.com/dubhalley/Front_Panel
+Want to make your own front panel ? : https://github.com/dubhalley/Front_Panel
+
+Front Panel
+<img src='Pictures/FA VCO Dual.png' width='800px'/>
+
+Back panel
+<img src='Pictures/FR VCO Dual.png' width='800px'/>
+
+Files : 
+
+Front panel : <img src='Files/FA VCO Dual.svg' width='800px'/>
+
+Rear panel : <img src='Files/FR VCO Dual.svg' width='800px'/>
+
+
 
 Define the position of your jacks, pots, switches, tubes, etc.
 
@@ -34,7 +79,7 @@ There will be visible screws on the front panel to secure the rear panel in para
 
 I used the .svg file from the front panel to make the rear panel, so I have all my hole positions exactly right ;) 
 
-It's a prototype :)
+
 
 ## 3 - Schéma : 
 
@@ -51,6 +96,7 @@ With the symbols for kicad :
 But, looking back, I think I could have done better...
 I followed the original diagram too closely.
 It's the first one ... beginner errors :)
+Next time ... ;)
 
 
 I created an .svg file with the component footprints to anticipate the wiring.
@@ -61,16 +107,22 @@ Rear panel wiring:
 
 ## 4 - Knob : 
 
-Method for making your own knob : https://github.com/dubhalley/Knob
+Want to make your own knob ? : https://github.com/dubhalley/Knob
 
 
 For the knobs, I made a small improvement by digging a small recess on the top, so I can put a colored washer in it to get a position slider.
 
-Knob:
+<img src='Pictures/knob.jpg' width='800px'/>
+
+Files :
+
+Knob : <img src='Files/Bouton Tube V5.FCStd' width='800px'/>
+
+Hat : <img src='Files/Rond de bouton.FCStd' width='800px'/>
 
 ## 5 - Case : 
 
-Method for making your own case : https://github.com/dubhalley/Case
+Want to make your own case ? : https://github.com/dubhalley/Case
 
 
 ## 6 - Power supply : 
