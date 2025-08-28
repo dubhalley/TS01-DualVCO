@@ -1,14 +1,13 @@
-# TS01 - Dual VCO
+# Tube Synth - How to
 
 The first one !! Whoooooohooooo :)
 I'll describe all my journey of tube's noob :)
 
 You'll find here my work in progress like a prototype :)
 
-Maquette A et B C 0.1 et 0.2
 
 Maquette V 0.1
-My traveling companion wanted to get an idea of what it would look like.
+My partner wanted to get an idea of what it would look like.
 I made a mock-up front panel and decided on a position for the tube. Wood, hot glue...
 
 Quick and dirty :)
@@ -28,12 +27,15 @@ I thought that perhaps with a second support I would have more space to put the 
 I realized that there wouldn't be enough space to make a clean assembly, so I opted for the rear side.
 
 Paper stuck on the dibond
+
 <img src='Pictures/ProtoA 0.2.jpg' width='400px'/>
 
 Tube holder
+
 <img src='Pictures/ProtoB 0.2.jpg' width='400px'/>
 
-More space for the components ?
+More space for the components ? Not enough ...
+
 <img src='Pictures/Proto 0.3.jpg' width='400px'/>
 
 
@@ -59,9 +61,13 @@ Want to make your own front panel ? : https://github.com/dubhalley/Front_Panel
 
 
 
-Front panel : <img src='Files/FA VCO Dual.svg' width='400px'/>
+Front panel : 
 
-Rear panel : <img src='Files/FR VCO Dual.svg' width='400px'/>
+<img src='Files/FA VCO Dual.svg' width='400px'/>
+
+Rear panel : 
+
+<img src='Files/FR VCO Dual.svg' width='400px'/>
 
 
 
@@ -77,12 +83,16 @@ I used the .svg file from the front panel to make the rear panel, so I have all 
 
 ## 3 - Schéma : 
 
-I used this diagram: <img src='Pictures/Cgs_ts23schematic.gif' width='400px'/>
+I used this diagram :
+
+<img src='Pictures/Cgs_ts23schematic.gif' width='400px'/>
 
 
 I redid it with Kicad, trying to anticipate the wiring.
 
-Kicad diagram: <img src='Pictures/Kicad_VCO_Dual.png' width='400px'/>
+Kicad diagram :
+
+<img src='Pictures/Kicad_VCO_Dual.png' width='400px'/>
 
 With the symbols for kicad :
 
@@ -95,7 +105,8 @@ Next time ... ;)
 
 I created an .svg file with the component footprints to anticipate the wiring.
 
-Rear panel wiring: 
+Rear panel wiring :
+
 <img src='Pictures/FR VCO Dual 3U Wiring V2.png' width='400px'/>
 
 
@@ -111,10 +122,12 @@ For the knobs, I made a small improvement by digging a small recess on the top, 
 Files :
 
 Knob : Bouton Tube V5.FCStd
-<img src='Pictures/Potar.jpg' width='400px'/>
+
+<img src='Pictures/Potar.png' width='400px'/>
 
 Hat : Rond de bouton.FCStd
-<img src='Pictures/Rond de potar.jpg' width='400px'/>
+
+<img src='Pictures/Rond de potar.png' width='400px'/>
 
 ## 5 - Case : 
 
