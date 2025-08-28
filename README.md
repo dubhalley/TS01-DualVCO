@@ -109,6 +109,10 @@ Rear panel wiring :
 
 <img src='Pictures/FR VCO Dual 3U Wiring V2.png' width='400px'/>
 
+We'll be using terminal strips for the lamps, making direct connections between tubes and components, not PCBs, but wire on the fly from component to component.
+
+<img src='Pictures/Barrette de connexion.png' width='200px'/>
+
 
 ## 4 - Knob : 
 
@@ -136,5 +140,18 @@ Want to make your own case ? : https://github.com/dubhalley/Case
 
 ## 6 - Power supply : 
 
+The master piece that makes the whole system work is the power supply. The one we're going to use comes from an old tube oscilloscope.
+
+
+<img src='Pictures/Alim1.jpg' width='200px'/>
+
+<img src='Pictures/Alim2.jpg' width='200px'/>
+
+There will be 3 differents voltage at least :
+* 150V DC
+* 6.3V AC
+* +/-15V
+
+I'll be sure to make a documentation to find the right voltages with this kind of material. :)
 
 
