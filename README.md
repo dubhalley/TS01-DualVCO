@@ -43,10 +43,12 @@ I redid it with Kicad, trying to anticipate the wiring.
 
 Kicad diagram: <img src='Pictures/Kicad_VCO_Dual.png' width='800px'/>
 
+With the symbols for kicad :
+
 
 But, looking back, I think I could have done better...
-
 I followed the original diagram too closely.
+It's the first one ... beginner errors :)
 
 
 I created an .svg file with the component footprints to anticipate the wiring.
